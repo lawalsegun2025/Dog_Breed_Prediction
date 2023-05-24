@@ -13,6 +13,8 @@ In this project, we used `Keras` and `TensorFlow` to build train and test an Con
 
 ## Motivation
 
+This project model can be used to predict different brreds of  dogs which can be further used by different NGOs and organizations working to save animals and for educational purposes.
+
 ## Problem Solving steps
 
 1. Load the data from kaggle
